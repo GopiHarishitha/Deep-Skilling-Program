@@ -28,5 +28,6 @@ public class ECommerceMain{
         }else{
             System.out.println("\tProduct not found");
         }        
+        scn.close();
     }
 }

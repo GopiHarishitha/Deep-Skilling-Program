@@ -1,4 +1,5 @@
 package Week1.Ecommerce;
+import java.util.ArrayList;
 public class ECommerce{
     static String name = "Amazon";
     ArrayList<Product> products;
